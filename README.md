@@ -1,5 +1,7 @@
 # violet
 
+[![Join the chat at https://gitter.im/simongfxu/violet](https://badges.gitter.im/simongfxu/violet.svg)](https://gitter.im/simongfxu/violet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## 她是什么
 
 violet 是一款面向写作爱好者的同步工具。
